@@ -10,4 +10,4 @@ Vous pouvez les partager et les adapter, y compris à des fins commerciales, à 
 (Mathis Frinzi, https://github.com/mathisfrinzi/quaternionic-colorimetry-optimization), d'indiquer les modifications
 éventuelles et de fournir un lien vers la licence.
 
-Le code source (`src/`, scripts `*.py`, `run_long.sh`) est sous licence MIT : voir `LICENSE`.
+Le code source (`src/`, scripts `*.py`, `run_all.sh`) est sous licence MIT : voir `LICENSE`.
