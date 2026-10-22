@@ -1,0 +1,296 @@
+{
+ "axe": {
+  "partie": "1_zeros",
+  "depart": 1,
+  "aide": 12,
+  "total": 12,
+  "succes_sans": 0,
+  "succes_avec": 12,
+  "gain_median": null,
+  "lectures": {
+   "sans": 600,
+   "avec": 56,
+   "ref": 7
+  }
+ },
+ "memoire": {
+  "partie": "1_zeros",
+  "depart": 6,
+  "aide": 12,
+  "total": 12,
+  "succes_sans": 12,
+  "succes_avec": 12,
+  "gain_median": 0.6846006695361071,
+  "lectures": {
+   "sans": 51,
+   "avec": 16,
+   "ref": 11
+  }
+ },
+ "cible": {
+  "partie": "2_minimums",
+  "depart": 11,
+  "aide": 7,
+  "total": 12,
+  "succes_sans": 12,
+  "succes_avec": 7,
+  "gain_median": 0.7653631284916201,
+  "lectures": {
+   "sans": 179,
+   "avec": 42,
+   "ref": 21
+  }
+ },
+ "conforme": {
+  "partie": "1_zeros",
+  "depart": 8,
+  "aide": 12,
+  "total": 12,
+  "succes_sans": 12,
+  "succes_avec": 12,
+  "gain_median": 0.18730456535334583,
+  "lectures": {
+   "sans": 41,
+   "avec": 33,
+   "ref": 11
+  }
+ },
+ "quaternionique": {
+  "partie": "3_dimension_4n",
+  "depart": 7,
+  "aide": 11,
+  "total": 12,
+  "succes_sans": 10,
+  "succes_avec": 12,
+  "gain_median": 0.4875,
+  "lectures": {
+   "sans": 43,
+   "avec": 21,
+   "ref": 27
+  }
+ },
+ "dithering": {
+  "partie": "1_zeros",
+  "depart": 6,
+  "aide": 9,
+  "total": 12,
+  "succes_sans": 12,
+  "succes_avec": 12,
+  "gain_median": 0.6411238825031929,
+  "lectures": {
+   "sans": 70,
+   "avec": 21,
+   "ref": 8
+  }
+ },
+ "identite": {
+  "partie": "4_autres_structures",
+  "depart": 4,
+  "aide": 7,
+  "total": 12,
+  "succes_sans": 12,
+  "succes_avec": 12,
+  "gain_median": 0.058823529411764705,
+  "lectures": {
+   "sans": 17,
+   "avec": 15,
+   "ref": 36
+  }
+ },
+ "blocconf": {
+  "partie": "4_autres_structures",
+  "depart": 3,
+  "aide": 12,
+  "total": 12,
+  "succes_sans": 0,
+  "succes_avec": 12,
+  "gain_median": null,
+  "lectures": {
+   "sans": 600,
+   "avec": 61,
+   "ref": 20
+  }
+ },
+ "rang": {
+  "partie": "4_autres_structures",
+  "depart": 7,
+  "aide": 9,
+  "total": 12,
+  "succes_sans": 7,
+  "succes_avec": 12,
+  "gain_median": 0.4588235294117647,
+  "lectures": {
+   "sans": 600,
+   "avec": 148,
+   "ref": 41
+  }
+ },
+ "grise": {
+  "partie": "4_autres_structures",
+  "depart": 3,
+  "aide": 4,
+  "total": 12,
+  "succes_sans": 0,
+  "succes_avec": 4,
+  "gain_median": null,
+  "lectures": {
+   "sans": 600,
+   "avec": 113,
+   "ref": 26
+  }
+ },
+ "droite": {
+  "partie": "6_reseaux",
+  "depart": 1,
+  "aide": 12,
+  "total": 12,
+  "succes_sans": 0,
+  "succes_avec": 12,
+  "gain_median": null,
+  "lectures": {
+   "sans": 600,
+   "avec": 11,
+   "ref": 20
+  }
+ },
+ "activation": {
+  "partie": "6_reseaux",
+  "depart": 8,
+  "aide": 1,
+  "total": 12,
+  "succes_sans": 0,
+  "succes_avec": 1,
+  "gain_median": null,
+  "lectures": {
+   "sans": 600,
+   "avec": 98,
+   "ref": 30
+  }
+ },
+ "depliage": {
+  "partie": "3_dimension_4n",
+  "depart": 1,
+  "aide": 12,
+  "total": 12,
+  "succes_sans": 9,
+  "succes_avec": 12,
+  "gain_median": 0.3516483516483517,
+  "lectures": {
+   "sans": 115,
+   "avec": 61,
+   "ref": 82
+  }
+ },
+ "relecture": {
+  "partie": "3_dimension_4n",
+  "depart": 0,
+  "aide": 7,
+  "total": 12,
+  "succes_sans": 10,
+  "succes_avec": 12,
+  "gain_median": 0.01895401895401895,
+  "lectures": {
+   "sans": 133,
+   "avec": 98,
+   "ref": 82
+  }
+ },
+ "deux_echelles": {
+  "partie": "3_dimension_4n",
+  "depart": 2,
+  "aide": 10,
+  "total": 12,
+  "succes_sans": 12,
+  "succes_avec": 11,
+  "gain_median": 0.25225225225225223,
+  "lectures": {
+   "sans": 129,
+   "avec": 95,
+   "ref": 87
+  }
+ },
+ "test_geo": {
+  "partie": "3_dimension_4n",
+  "depart": 8,
+  "aide": 8,
+  "total": 12,
+  "succes_sans": 11,
+  "succes_avec": 12,
+  "gain_median": 0.012048192771084338,
+  "lectures": {
+   "sans": 103,
+   "avec": 91,
+   "ref": 149
+  }
+ },
+ "par_sortie": {
+  "partie": "6_reseaux",
+  "depart": 6,
+  "aide": 12,
+  "total": 12,
+  "succes_sans": 12,
+  "succes_avec": 12,
+  "gain_median": 0.5,
+  "lectures": {
+   "sans": 24,
+   "avec": 12,
+   "ref": 68
+  }
+ },
+ "sature": {
+  "partie": "6_reseaux",
+  "depart": 2,
+  "aide": 8,
+  "total": 12,
+  "succes_sans": 1,
+  "succes_avec": 8,
+  "gain_median": 0.18421052631578946,
+  "lectures": {
+   "sans": 2000,
+   "avec": 35,
+   "ref": 52
+  }
+ },
+ "broyden_q": {
+  "partie": "5_armes_egales",
+  "depart": 10,
+  "aide": 12,
+  "total": 12,
+  "succes_sans": 12,
+  "succes_avec": 12,
+  "gain_median": 0.5,
+  "lectures": {
+   "sans": 30,
+   "avec": 15,
+   "ref": 65
+  }
+ },
+ "instable": {
+  "partie": "5_armes_egales",
+  "depart": 9,
+  "aide": 9,
+  "total": 12,
+  "succes_sans": 0,
+  "succes_avec": 9,
+  "gain_median": null,
+  "lectures": {
+   "sans": 1500,
+   "avec": 54,
+   "ref": 6
+  }
+ },
+ "amplitude": {
+  "partie": "5_armes_egales",
+  "depart": 11,
+  "aide": 12,
+  "total": 12,
+  "succes_sans": 1,
+  "succes_avec": 12,
+  "gain_median": 0.42105263157894735,
+  "lectures": {
+   "sans": 1500,
+   "avec": 35,
+   "ref": 14
+  }
+ }
+}
