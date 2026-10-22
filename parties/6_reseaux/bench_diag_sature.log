@@ -1,0 +1,4 @@
+radial n=4 | base:33 % / 25  pond:65 % / 30  geo:42 % / 24  pas-1:53 % / 26  acc-1:42 % / 26  pond+pas-1:70 % / 28  pond+pas-1+acc-1:63 % / 23  bq:100 % / 30 [296s]
+radial n=8 | base:7 % / 37  pond:22 % / 51  geo:8 % / 37  pas-1:25 % / 33  acc-1:12 % / 38  pond+pas-1:33 % / 32  pond+pas-1+acc-1:38 % / 35  bq:100 % / 72 [2795s]
+radial-faible n=4 | base:100 % / 11  pond:100 % / 11  geo:100 % / 11  pas-1:100 % / 9  acc-1:100 % / 11  pond+pas-1:100 % / 9  pond+pas-1+acc-1:100 % / 9  bq:100 % / 8 [2818s]
+radial-faible n=8 | base:100 % / 16  pond:100 % / 16  geo:100 % / 16  pas-1:100 % / 15  acc-1:100 % / 16  pond+pas-1:100 % / 15  pond+pas-1+acc-1:100 % / 15  bq:100 % / 13 [2911s]

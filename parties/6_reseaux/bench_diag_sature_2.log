@@ -1,0 +1,71 @@
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:504: RuntimeWarning: divide by zero encountered in log
+  dl_vrai = np.log(np.linalg.norm(F1[i]) / np.linalg.norm(F0[i]))
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:583: RuntimeWarning: divide by zero encountered in log
+  dlv = np.log(np.linalg.norm(Fh, axis=1) / np.linalg.norm(Fq, axis=1))
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/quat.py:49: RuntimeWarning: invalid value encountered in divide
+  return qconj(a) / qn2(a)[..., None]
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:504: RuntimeWarning: divide by zero encountered in scalar divide
+  dl_vrai = np.log(np.linalg.norm(F1[i]) / np.linalg.norm(F0[i]))
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+radial n=4 | rcond-1e-10:55 % / 29  eta-fixe:30 % / 24  pond+pas-1+rcond+eta-fixe:80 % / 28 [71s]
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:504: RuntimeWarning: divide by zero encountered in log
+  dl_vrai = np.log(np.linalg.norm(F1[i]) / np.linalg.norm(F0[i]))
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:583: RuntimeWarning: divide by zero encountered in log
+  dlv = np.log(np.linalg.norm(Fh, axis=1) / np.linalg.norm(Fq, axis=1))
+radial n=4 | aucun-test:82 % / 25  aucun-test-pas-065:72 % / 26  bq-sans-rl:100 % / 26 [5s]
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:504: RuntimeWarning: divide by zero encountered in log
+  dl_vrai = np.log(np.linalg.norm(F1[i]) / np.linalg.norm(F0[i]))
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:583: RuntimeWarning: divide by zero encountered in log
+  dlv = np.log(np.linalg.norm(Fh, axis=1) / np.linalg.norm(Fq, axis=1))
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/quat.py:49: RuntimeWarning: invalid value encountered in divide
+  return qconj(a) / qn2(a)[..., None]
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:504: RuntimeWarning: divide by zero encountered in scalar divide
+  dl_vrai = np.log(np.linalg.norm(F1[i]) / np.linalg.norm(F0[i]))
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:504: RuntimeWarning: divide by zero encountered in log
+  dl_vrai = np.log(np.linalg.norm(F1[i]) / np.linalg.norm(F0[i]))
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:583: RuntimeWarning: divide by zero encountered in log
+  dlv = np.log(np.linalg.norm(Fh, axis=1) / np.linalg.norm(Fq, axis=1))
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/quat.py:49: RuntimeWarning: invalid value encountered in divide
+  return qconj(a) / qn2(a)[..., None]
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:504: RuntimeWarning: divide by zero encountered in scalar divide
+  dl_vrai = np.log(np.linalg.norm(F1[i]) / np.linalg.norm(F0[i]))
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:504: RuntimeWarning: divide by zero encountered in log
+  dl_vrai = np.log(np.linalg.norm(F1[i]) / np.linalg.norm(F0[i]))
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:583: RuntimeWarning: divide by zero encountered in log
+  dlv = np.log(np.linalg.norm(Fh, axis=1) / np.linalg.norm(Fq, axis=1))
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/quat.py:49: RuntimeWarning: invalid value encountered in divide
+  return qconj(a) / qn2(a)[..., None]
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:504: RuntimeWarning: divide by zero encountered in scalar divide
+  dl_vrai = np.log(np.linalg.norm(F1[i]) / np.linalg.norm(F0[i]))
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+ ** On entry to DLASCL parameter number  4 had an illegal value
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:504: RuntimeWarning: divide by zero encountered in log
+  dl_vrai = np.log(np.linalg.norm(F1[i]) / np.linalg.norm(F0[i]))
+/home/claude/projet-avec-claude-mathis/quaternionic-colorimetry-optimization/parties/6_reseaux/../../src/sonde_hn.py:583: RuntimeWarning: divide by zero encountered in log
+  dlv = np.log(np.linalg.norm(Fh, axis=1) / np.linalg.norm(Fq, axis=1))
+radial n=8 | rcond-1e-10:12 % / 42  eta-fixe:7 % / 37  pond+pas-1+rcond+eta-fixe:35 % / 33  aucun-test:77 % / 36  aucun-test-pas-065:48 % / 39  bq-sans-rl:100 % / 43 [426s]
+radial-faible n=4 | rcond-1e-10:100 % / 11  eta-fixe:100 % / 11  pond+pas-1+rcond+eta-fixe:100 % / 9  aucun-test:100 % / 9  aucun-test-pas-065:100 % / 11  bq-sans-rl:100 % / 8 [429s]
+radial-faible n=8 | rcond-1e-10:100 % / 16  eta-fixe:100 % / 16  pond+pas-1+rcond+eta-fixe:100 % / 15  aucun-test:100 % / 15  aucun-test-pas-065:100 % / 16  bq-sans-rl:100 % / 13 [439s]
