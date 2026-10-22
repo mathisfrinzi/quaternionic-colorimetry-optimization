@@ -1,0 +1,4 @@
+n=16 prior0      succès 100%  lect 63.5  rejets: amb 0.18 desc 0.08  comp_amb 0.021  |h| 0.05  werr 2.1063693996886013  [3s]
+n=16 noflag      succès   8%  lect 62.0  rejets: amb 0.00 desc 0.82  comp_amb 0.000  |h| 0.02  werr 1.4320848474481995  [29s]
+n=32 prior0      succès 100%  lect 125.5  rejets: amb 0.25 desc 0.19  comp_amb 0.022  |h| 0.09  werr 2.3025806761015444  [106s]
+n=32 noflag      succès   8%  lect 98.0  rejets: amb 0.00 desc 0.89  comp_amb 0.000  |h| 0.04  werr 1.1159708187535782  [432s]

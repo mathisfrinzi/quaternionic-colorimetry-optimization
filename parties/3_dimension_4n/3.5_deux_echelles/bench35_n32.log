@@ -1,0 +1,8 @@
+n=32 σ=0.0  sonde-deux-echelles        succès  96%  lect méd  129.5  refus ambiguïté 0.00 descente 0.57 (dont à tort 0.04)  [622 s]
+n=32 σ=0.0  sonde-deux-echelles-geo    succès  99%  lect méd  122.0  refus ambiguïté 0.00 descente 0.39 (dont à tort 0.02)  [1061 s]
+n=32 σ=0.0  sonde-oracle-decade        succès  95%  lect méd   89.0  refus ambiguïté 0.00 descente 0.25 (dont à tort 0.02)  [1354 s]
+n=32 σ=0.0  sonde-oracle-decade-geo    succès  92%  lect méd   85.5  refus ambiguïté 0.00 descente 0.15 (dont à tort 0.00)  [1650 s]
+n=32 σ=0.0  sonde-deux-echelles-pond   succès 100%  lect méd  125.0  refus ambiguïté 0.00 descente 0.38 (dont à tort 0.06)  [2048 s]
+n=32 σ=0.02 sonde-deux-echelles        succès  25%  lect méd  152.0  refus ambiguïté 0.00 descente 0.97 (dont à tort 0.00)  [4585 s]
+n=32 σ=0.02 sonde-deux-echelles-geo    succès  44%  lect méd  150.0  refus ambiguïté 0.00 descente 0.92 (dont à tort 0.00)  [1938 s]
+n=32 σ=0.02 sonde-oracle-decade        succès  83%  lect méd  129.0  refus ambiguïté 0.00 descente 0.79 (dont à tort 0.01)  [2870 s]
