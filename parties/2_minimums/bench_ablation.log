@@ -1,0 +1,24 @@
+nozero bruit luminosité 0.02 100% coût 15.0
+nozero bruit luminosité 0.05 93% coût 16.0
+nozero bruit teinte 0.005 100% coût 14.0
+nozero bruit teinte 0.02 100% coût 21.0
+nozero bruit teinte 0.05 100% coût 21.0
+nozero bruit axe 0.005 100% coût 16.0
+nozero bruit axe 0.02 100% coût 16.0
+nozero bruit axe 0.05 100% coût 26.0
+nozero bits luminosité  89% coût 16.0
+nozero bits teinte  97% coût 16.0
+nozero bits axe  100% coût 16.0
+nozero bits équilibré  100% coût 11.0
+nozero_ill bruit luminosité 0.02 88% coût 38.0
+nozero_ill bruit luminosité 0.05 60% coût 48.0
+nozero_ill bruit teinte 0.005 100% coût 33.0
+nozero_ill bruit teinte 0.02 96% coût 41.0
+nozero_ill bruit teinte 0.05 48% coût 47.0
+nozero_ill bruit axe 0.005 100% coût 38.0
+nozero_ill bruit axe 0.02 100% coût 44.0
+nozero_ill bruit axe 0.05 99% coût 60.0
+nozero_ill bits luminosité  7% coût 69.0
+nozero_ill bits teinte  11% coût 28.0
+nozero_ill bits axe  38% coût 33.0
+nozero_ill bits équilibré  100% coût 30.0

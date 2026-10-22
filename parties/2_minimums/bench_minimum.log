@@ -1,0 +1,14 @@
+  réglage fini en 6s
+  test fini en 20s
+cible-24       nozero      100.0%  coût médian 42
+cible-24       nozero_ill  100.0%  coût médian 186
+cible-36       nozero      100.0%  coût médian 42
+cible-36       nozero_ill  100.0%  coût médian 186
+bfgs-FD        nozero      100.0%  coût médian 41
+bfgs-FD        nozero_ill  100.0%  coût médian 56
+lm-FD          nozero      100.0%  coût médian 17
+lm-FD          nozero_ill  100.0%  coût médian 17
+nelder-mead    nozero      100.0%  coût médian 36
+nelder-mead    nozero_ill  100.0%  coût médian 128
+cma-es         nozero      100.0%  coût médian 104
+cma-es         nozero_ill  100.0%  coût médian 314

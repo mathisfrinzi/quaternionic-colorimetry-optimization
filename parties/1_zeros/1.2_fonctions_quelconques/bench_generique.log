@@ -1,0 +1,20 @@
+  réglage fini en 35s
+  test fini en 109s
+sonde-S0-24b                 2.5% (2-4)  coût médian 118
+sonde-S0-48b                96.7% (95-98)  coût médian 43
+sonde-S1-24b                86.0% (83-88)  coût médian 101
+sonde-S1-48b                86.3% (84-88)  coût médian 85
+sonde-S2rgb-24b             82.1% (79-85)  coût médian 38
+sonde-S2rgb-48b             98.9% (98-99)  coût médian 31
+sonde-S2sph-24b             82.7% (80-85)  coût médian 34
+sonde-exacte                98.2% (97-99)  coût médian 44
+sonde-S2rgb-24b-Broyden     96.0% (94-97)  coût médian 19
+sonde-S2rgb-48b-Broyden    100.0% (100-100)  coût médian 14
+newton-FD                   98.9% (98-99)  coût médian 16
+newton-Jexacte              98.9% (98-99)  coût médian 7
+broyden                     99.0% (98-100)  coût médian 8
+bfgs-FD                     99.6% (99-100)  coût médian 46
+lm-FD                       99.8% (99-100)  coût médian 11
+nelder-mead                 99.8% (99-100)  coût médian 130
+powell                      90.4% (88-92)  coût médian 220
+cma-es                      85.7% (83-88)  coût médian 379

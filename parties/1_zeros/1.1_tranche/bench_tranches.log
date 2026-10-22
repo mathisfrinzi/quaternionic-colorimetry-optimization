@@ -1,0 +1,15 @@
+  réglage fini en 24s
+  test fini en 100s
+complexe-original-8b    98.0% (97-99)  coût médian 27
+complexe-original-12b   99.5% (99-100)  coût médian 29
+S1-signé-16b            99.4% (99-100)  coût médian 30
+S1-signé-24b            99.6% (99-100)  coût médian 17
+S1-non-signé-24b        58.6% (56-62)  coût médian 48
+S2-4D-24b               75.9% (73-78)  coût médian 73
+newton-complexe         80.1% (78-82)  coût médian 11
+newton-4D-FD            92.4% (91-94)  coût médian 26
+newton-4D-Jexacte       92.4% (91-94)  coût médian 11
+broyden-4D              91.9% (90-93)  coût médian 18
+bfgs-4D                 99.4% (99-100)  coût médian 61
+nelder-mead-4D          99.8% (99-100)  coût médian 98
+cma-es-4D              100.0% (100-100)  coût médian 230

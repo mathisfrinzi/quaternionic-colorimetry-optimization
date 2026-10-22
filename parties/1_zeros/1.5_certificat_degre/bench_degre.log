@@ -1,0 +1,17 @@
+5a rgb B=12 σ=0.00 depth=1 ( 32 lectures) : degré exact 81 %
+5a rgb B=12 σ=0.00 depth=2 (192 lectures) : degré exact 100 %
+5a rgb B=16 σ=0.00 depth=1 ( 32 lectures) : degré exact 81 %
+5a rgb B=16 σ=0.00 depth=2 (192 lectures) : degré exact 99 %
+5a rgb B=24 σ=0.00 depth=1 ( 32 lectures) : degré exact 83 %
+5a rgb B=24 σ=0.00 depth=2 (192 lectures) : degré exact 100 %
+5a rgb B=36 σ=0.00 depth=1 ( 32 lectures) : degré exact 82 %
+5a rgb B=36 σ=0.00 depth=2 (192 lectures) : degré exact 100 %
+5a rgb B=48 σ=0.00 depth=1 ( 32 lectures) : degré exact 82 %
+5a rgb B=48 σ=0.00 depth=2 (192 lectures) : degré exact 100 %
+5a sph B=12 σ=0.00 depth=1 ( 32 lectures) : degré exact 81 %
+5a sph B=12 σ=0.00 depth=2 (192 lectures) : degré exact 100 %
+5a sph B=16 σ=0.00 depth=1 ( 32 lectures) : degré exact 78 %
+5a sph B=16 σ=0.00 depth=2 (192 lectures) : degré exact 99 %
+5a sph B=24 σ=0.00 depth=1 ( 32 lectures) : degré exact 83 %
+5a sph B=24 σ=0.00 depth=2 (192 lectures) : degré exact 100 %
+5a sph B=36 σ=0.00 depth=1 ( 32 lectures) : degré exact 82 %
